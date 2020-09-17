@@ -10,7 +10,7 @@ router.get("/", function(req, res, next) {
   
     
 });
-router.post("/", function(req,res ,callBack){
+router.post("/", function(req,res ,){
     var name= req.body.name
     var addresse =req.body.adresse
     console.log(name)
