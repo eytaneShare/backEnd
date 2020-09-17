@@ -1,0 +1,14 @@
+[{
+  "_id": 0,
+  "userName": "eytane",
+  "mail": "eytanetest@gmail.com",
+  "password": "Psg613",
+  "phone": "0586899203",
+  "address": "53 katzelboguen"
+},{
+  "_id": 1,
+  "userName": "toto",
+  "mail": "eytanejeu@gmail.com",
+  "password": "real613",
+  "address": "2 rue petit"
+}]
